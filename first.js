@@ -4,7 +4,7 @@
 <BODY>
 <SCRIPT LANGUAGE="JAVASCRIPT">
 <!--
-document.write("Welcome to my site!");
+document.write("Welcome to my site !");
 // -->
 </SCRIPT>
 </BODY>
